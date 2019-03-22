@@ -1,0 +1,10 @@
+.grid img{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+}
+body {
+    font-family: "tondo";
+    line-height: 1.4em;
+    background-image: url("https://images.unsplash.com/photo-1549241520-425e3dfc01cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2734&q=80");
+  }
